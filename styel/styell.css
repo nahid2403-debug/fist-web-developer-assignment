@@ -1,0 +1,80 @@
+.open-sans-normal {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.tanbir-gotum{
+    font-size: 24px;
+    font-weight: 700;
+    color: #0e0e0e77;
+}
+.tanbir-badaimma{
+    font-size: 56px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+/* div */
+.tanbir-jk{
+    max-width: 622px;
+    /* margin: 60px 16px 0 80px; */
+    
+}
+/* .tanbir-jk,tanbir-gotum {margin: 60px 16px 0 80px; */
+
+
+.tanbir{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 160px 80px 160px;
+    background-color: #C6E4D6;
+    padding: 100px;
+    border: none;
+
+    
+    
+}
+.jenifa{
+    font-size: 18px;
+    font-weight: 800;
+    padding: 17px 34px;
+
+background-color:  #006A50;;
+border: none;
+color: #FFFFFF;
+}
+.newaz{
+    width: 474px;
+}
+.je{
+    list-style: none;
+   
+    
+}
+.naa{
+    color: #006A50;
+    font-size: 18px;
+    font-weight:  bold;
+    padding: 15px 30px;
+    border: none;
+}
+
+/* first nav */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 160px;
+
+}
+.na{
+    color: #0E0E0E;
+    font-size: 32px;
+    font-weight: bold;
+    
+
+
+}
