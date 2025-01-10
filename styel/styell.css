@@ -33,6 +33,7 @@
     background-color: #C6E4D6;
     padding: 100px;
     border: none;
+    border-radius: 20px;
 
     
     
@@ -45,6 +46,7 @@
 background-color:  #006A50;;
 border: none;
 color: #FFFFFF;
+ border-radius: 10px;
 }
 .newaz{
     width: 474px;
@@ -60,6 +62,7 @@ color: #FFFFFF;
     font-weight:  bold;
     padding: 15px 30px;
     border: none;
+     border-radius: 10px;
 }
 
 /* first nav */
@@ -77,4 +80,69 @@ nav{
     
 
 
+}
+/* bio */
+.bistry{
+    display: flex;
+    gap: 24px;
+    
+}
+.bio{ margin: 20px 160px 80px 160px;
+    
+
+
+}
+.biology{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.nahidj{
+    font-size: 16px;
+    color: #0e0e0e06;
+}
+/* 1st */
+.bistry-nahid {
+    font-size: 20px;
+    font-weight: bold;
+}
+.nahi{
+font-size: 16px;
+}
+
+.je26{
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 11px 20px;
+    background-color: #5490F5;
+    border-radius: 8px;
+}
+.je27{
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 11px 20px;
+    background-color: #09A15C;
+     border-radius: 8px;
+}
+.je28{
+    font-size: 16px;
+    color: #FFFFFF;
+  padding: 11px 20px;
+    background-color: #FFC239;
+     border-radius: 8px;
+}
+.bistry-je{
+    background-color: #548ff53e;
+    padding: 32px ;
+    border-radius: 15px;
+}
+.bist{
+     background-color: #548ff55b;
+     padding: 32px ;
+     border-radius: 15px;
+}
+.bis{
+    background-color: #F7EBCF;
+    padding: 32px ;
+    border-radius: 15px;
 }
