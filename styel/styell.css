@@ -38,6 +38,52 @@
     
     
 }
+.alll{
+     justify-content: space-between;
+}
+.joni{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+    font-size: 18px;
+    color: #0e0e0e56;
+    
+}
+.jonii{
+    font-size: 32px;
+    font-weight: bold;
+    color: #0e0e0edc;
+}
+.my{
+    font-size: 16px;
+   
+}
+.myy{
+    justify-content: space-between;
+    border-radius: 20px;
+}
+
+.ali{
+   
+}
+.maa{
+    display: flex;
+    margin: 20px 160px 80px 160px;
+     align-items: center;
+     /* justify-content: space-between; */
+     background-color: #FFFFFF;
+     padding: 48px;
+     border-radius: 20px;
+}
+.all{margin: 20px 160px 80px 160px;
+display: flex;
+ background-color: #FFFFFF;
+ padding: 48px;
+ gap: 32px;
+ border-radius: 20px;
+}
+/* .alll{display: flex;} */
 .jenifa{
     font-size: 18px;
     font-weight: 800;
@@ -52,10 +98,19 @@ color: #FFFFFF;
     width: 474px;
 }
 .je{
-    list-style: none;
+        list-style: none;}
    
-    
+.bu{
+    font-size: 18px;
+    font-weight: 700;
+    color:#FFFFFF;
+    padding: 13px 26px;
+    background-color: #006A50;
+    border-radius: 10px;
+
 }
+
+
 .naa{
     color: #006A50;
     font-size: 18px;
@@ -145,4 +200,24 @@ font-size: 16px;
     background-color: #F7EBCF;
     padding: 32px ;
     border-radius: 15px;
+}
+/* notun */
+.anw{
+     margin: 20px 160px 80px 160px;
+     margin-top: 5px;
+}
+
+.anwe{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.all{
+    /* padding: 10px; */
+}
+.anwer{
+    font-size: 16px;
+    font-weight: 500;
+    color: #0e0e0e8e;
+
 }
