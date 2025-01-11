@@ -67,6 +67,59 @@
 .ali{
    
 }
+.amma{margin: 50px 160px 50px 160px;
+    justify-content: center;
+    text-align: center;
+
+}
+.che{
+    display: flex;
+     justify-content: center;
+    text-align: center;
+}
+.hh{
+     font-size: 40px;
+    font-weight: bold;
+    gap: 24px;
+    margin: 32px 104px 32px 104px;
+    border: 2px solid #C6E4D6;
+padding: 40px 40px;
+margin: 10px 0;
+background-color: #09A15C;
+   
+}
+.phy{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    gap: 20px;
+}
+.pp{
+    font-size: 16;
+    font-weight: 500px;
+    gap: 10px;
+    margin-top: 0px;
+}
+/* .che{ */
+   
+
+
+.abba{
+    /* padding: 24px; */
+}
+.class{
+    margin: 32px 124px 32px 124px;
+    background-color: thistle;
+    padding: 40px;
+    padding-top: 30px;
+}
+.jz{
+    font-size: 18px;
+    color: #fffffff3;
+    padding: 17px 34px;
+    background-color: #006a50f1;
+    border-radius: 10px;
+}
 .maa{
     display: flex;
     margin: 20px 160px 80px 160px;
